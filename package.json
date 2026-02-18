@@ -1,0 +1,18 @@
+{
+  "name": "@opkod-france/claude-skill-strapi-ui-design",
+  "private": true,
+  "version": "0.0.0-semantically-released",
+  "description": "Strapi v5 plugin admin UI design skill for Claude Code",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/opkod-france/claude-skill-strapi-ui-design.git"
+  },
+  "release": {
+    "branches": ["main"],
+    "plugins": [
+      "@semantic-release/commit-analyzer",
+      "@semantic-release/release-notes-generator",
+      "@semantic-release/github"
+    ]
+  }
+}
