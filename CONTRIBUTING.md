@@ -14,7 +14,7 @@ Thank you for your interest in contributing to the Strapi UI Design skill for Cl
 
 1. **Fork the repository**
    ```bash
-   git clone https://github.com/ayhid/claude-skill-strapi-ui-design.git
+   git clone https://github.com/opkod-france/claude-skill-strapi-ui-design.git
    cd claude-skill-strapi-ui-design
    ```
 

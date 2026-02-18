@@ -16,7 +16,7 @@ A comprehensive Claude Code skill for creating production-grade Strapi v5 plugin
 ### Option 1: Clone to Claude Skills Directory
 
 ```bash
-git clone https://github.com/ayhid/claude-skill-strapi-ui-design.git ~/.claude/skills/strapi-ui-design
+git clone https://github.com/opkod-france/claude-skill-strapi-ui-design.git ~/.claude/skills/strapi-ui-design
 ```
 
 ### Option 2: Manual Installation
@@ -24,9 +24,9 @@ git clone https://github.com/ayhid/claude-skill-strapi-ui-design.git ~/.claude/s
 ```bash
 mkdir -p ~/.claude/skills/strapi-ui-design
 cd ~/.claude/skills/strapi-ui-design
-curl -O https://raw.githubusercontent.com/ayhid/claude-skill-strapi-ui-design/main/SKILL.md
-curl -O https://raw.githubusercontent.com/ayhid/claude-skill-strapi-ui-design/main/patterns.md
-curl -O https://raw.githubusercontent.com/ayhid/claude-skill-strapi-ui-design/main/examples.md
+curl -O https://raw.githubusercontent.com/opkod-france/claude-skill-strapi-ui-design/main/SKILL.md
+curl -O https://raw.githubusercontent.com/opkod-france/claude-skill-strapi-ui-design/main/patterns.md
+curl -O https://raw.githubusercontent.com/opkod-france/claude-skill-strapi-ui-design/main/examples.md
 ```
 
 ### Option 3: Project-Level Installation
@@ -95,7 +95,7 @@ Ask Claude Code questions like:
 
 ## Related Skills
 
-- [strapi-expert](https://github.com/ayhid/claude-skill-strapi-expert) - Backend plugin development
+- [strapi-plugin-dev](https://github.com/opkod-france/claude-skill-strapi-plugin-dev) - Backend plugin development
 - [frontend-design](https://github.com/anthropics/claude-code/tree/main/skills/frontend-design) - General frontend interfaces
 
 ## Requirements
